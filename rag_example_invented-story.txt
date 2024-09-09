@@ -1,0 +1,9 @@
+<div class="post-content">
+<p>Thimoty and Antonio are good computer engineers.</p>
+<p>One day Thimoty told Antonio: let's go to the exhibition to learn some new information about large language models.</p>
+<p>The exhibition was held far from the two friend's home, more than 100 km</p>
+<p>They decided to go by train, so Antonio bought to Tickets to Rome.</p>
+<p>The day of the exhibition, a rainstorm struck the railway doing a lot of damage.</p>
+<p>Thimoty took his car and they drove all the way to Rome.</p>
+<p>They arrived late at the exhibition but they enjoyed a lot and met a lot of other scientists.</p>
+</div>
